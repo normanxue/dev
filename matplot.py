@@ -14,4 +14,4 @@ plt.ylabel('Y Axis')
 
 # 显示图形
 plt.show()
-print("plt test")
+print("plt test success") 
