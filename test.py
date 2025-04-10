@@ -1,5 +1,6 @@
 import sys
 # modify by local git
-print("hello world,git push test ")
 print(sys.executable)
 print(sys.version)
+print("hello world,中文 ")
+print("hello world,git push test ")
