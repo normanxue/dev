@@ -1,8 +1,9 @@
 import matplotlib.pyplot as plt
+import numpy as np
 # modify by github web site
 # 创建数据
-x = [1, 2, 3, 4, 5]
-y = [2, 3, 5, 17, 13]
+x = np.array(range(0,10,1))
+y = np.array(range(40,80,4))
 
 # 绘制图形
 plt.plot(x, y)
