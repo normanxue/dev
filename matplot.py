@@ -13,6 +13,6 @@ plt.title('Simple Line Plot')
 plt.xlabel('X Axis')
 plt.ylabel('Y Axis')
 
-# 显示图形
+# 显示图形  test
 plt.show()
 print("plt test success") 
